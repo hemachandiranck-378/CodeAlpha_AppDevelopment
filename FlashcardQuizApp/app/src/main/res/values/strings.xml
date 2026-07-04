@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flashcard Quiz App</string>
+    <string name="manage_flashcards">⚙ Manage Flashcards</string>
+    <string name="enter_question">Enter Question</string>
+    <string name="enter_answer">Enter Answer</string>
+    <string name="add_flashcard">Add Flashcard</string>
+    <string name="edit_flashcard">Edit Flashcard</string>
+    <string name="delete_flashcard">Delete Flashcard</string>
+    <string name="back_to_quiz">Back to Quiz</string>
+    <string name="flashcard_quiz">📚 Flashcard Quiz</string>
+    <string name="default_counter">1/3</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_flashcards_available">No Flashcards Available</string>
+    <string name="counter_empty">0/0</string>
+</resources>
